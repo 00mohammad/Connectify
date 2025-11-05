@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Huddle landing page with curved sections
 
 ![Header/intro section for the Huddle landing page with curved sections](./design/desktop-preview.jpg)
@@ -90,3 +91,7 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# Connectify
+Connectify is a modern, responsive landing page inspired by Frontend Mentor’s Huddle challenge. Built with HTML and CSS, with JavaScript planned to be added, it showcases clean design, friendly visuals, and mobile-first accessibility.
+0bbe1dc7d306a5d528ac65c5690b6674473fbd1f
