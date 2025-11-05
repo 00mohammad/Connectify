@@ -1,96 +1,85 @@
-# Frontend Mentor - Huddle landing page with curved sections
+# 🌐 Connectify
 
-![Header/intro section for the Huddle landing page with curved sections](./design/desktop-preview.jpg)
+![Connectify Banner](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+**Connectify** is a modern, interactive web project designed to connect users seamlessly. Built with **HTML, CSS, and JavaScript**, this project focuses on clean design, smooth interactions, and responsive layouts.
 
-Thanks for checking out this front-end coding challenge.
+---
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+## 🚀 Live Demo
+Experience it live: [Connectify Live Demo](https://your-demo-link.com)
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
+---
 
-## The challenge
+## ✨ Features
+- 💻 **Responsive Design:** Works flawlessly on **desktop**, **tablet**, and **mobile**.
+- 🎨 **Interactive UI:** Smooth animations, transitions, modals, and hover effects.
+- 🔍 **Search & Filter:** Easily search through content (notes, items, etc.).
+- 🖋 **Custom Fonts & Icons:** Uses **Poppins** font family and **SVG icons** for sharp visuals.
+- 🗂 **Organized File Structure:** Clear separation of `CSS`, `JS`, `images`, `fonts`, and `design`.
+- ⚡ **Performance Optimized:** Lightweight, fast-loading, and efficient.
+- ✅ **User-Friendly:** Intuitive interface with accessible controls.
 
-Your challenge is to build out this landing page and get it looking as close to the design as possible.
+---
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+## 🛠 Tech Stack
+- **HTML5**
+- **CSS3** (Flexbox, Grid, Animations)
+- **JavaScript (ES6+)**
+- **Git & GitHub** for version control
 
-Your users should be able to: 
+---
 
-- View the optimal layout for the site depending on their device's screen size
-- See hover states for all interactive elements on the page
+## 📸 Screenshots
 
-Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
+### Desktop
+![Desktop Preview](./design/desktop-preview.jpg)
 
-## Where to find everything
+### Mobile
+![Mobile Preview](./design/mobile-design.jpg)
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
+### Mockups
+![Design Preview](./design/active-states.jpg)
 
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
+---
 
-If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
+## 🎥 Demo GIF
+![Project Demo](./design/demo.gif)  
+*If you don't have a GIF, you can record one with a tool like Loom or ScreenToGif.*
 
-You will find all the required assets in the `/images` folder. The assets are already optimized.
+---
 
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
+## 📝 Installation
+Clone and run locally:
 
-## Building your project
+```bash
+# Clone the repository
+git clone https://github.com/00mohammad/Connectify.git
 
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
+# Navigate to the project folder
+cd Connectify
 
-1. Initialize your project as a public repository on [GitHub](https://github.com/). Creating a repo will make it easier to share your code with the community if you need help. If you're not sure how to do this, [have a read-through of this Try Git resource](https://try.github.io/).
-2. Configure your repository to publish your code to a web address. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, and we provide some recommendations below.
-3. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes to create reusable styles.
-4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
-5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
-6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
+# Open index.html in your browser
+open index.html
 
-## Deploying your project
+Connectify/
+│
+├─ index.html
+├─ README.md
+├─ style/           # CSS files
+├─ JavaScript/      # JS files
+├─ images/          # Icons and images
+├─ fonts/           # Custom fonts
+└─ design/          # Mockups, previews, and GIFs
 
-As mentioned above, there are many ways to host your project for free. Our recommended hosts are:
+⭐ Show Your Support
 
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
+If you like this project, give it a ⭐ on GitHub! It motivates me to keep building amazing projects.
 
-You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
+📫 Contact
 
-## Create a custom `README.md`
+✉ Email: mohammadizi1401@gmail.com
 
-We strongly recommend overwriting this `README.md` with a custom one. We've provided a template inside the [`README-template.md`](./README-template.md) file in this starter code.
+🐱 GitHub: 00mohammad
 
-The template provides a guide for what to add. A custom `README` will help you explain your project and reflect on your learnings. Please feel free to edit our template as much as you like.
-
-Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. That will make it show up as your repository's README file.
-
-## Submitting your solution
-
-Submit your solution on the platform for the rest of the community to see. Follow our ["Complete guide to submitting solutions"](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) for tips on how to do this.
-
-Remember, if you're looking for feedback on your solution, be sure to ask questions when submitting it. The more specific and detailed you are with your questions, the higher the chance you'll get valuable feedback from the community.
-
-## Sharing your solution
-
-There are multiple places you can share your solution:
-
-1. Share your solution page in the **#finished-projects** channel of the [community](https://www.frontendmentor.io/community). 
-2. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor**, including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
-3. Share your solution on other social channels like LinkedIn.
-4. Blog about your experience building your project. Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned. Great platforms to write on are [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), and [CodeNewbie](https://community.codenewbie.org/).
-
-We provide templates to help you share your solution once you've submitted it on the platform. Please do edit them and include specific questions when you're looking for feedback. 
-
-The more specific you are with your questions the more likely it is that another member of the community will give you feedback.
-
-## Got feedback for us?
-
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
-
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
-
-**Have fun building!** 🚀
-=======
-# Connectify
-Connectify is a modern, responsive landing page inspired by Frontend Mentor’s Huddle challenge. Built with HTML and CSS, with JavaScript planned to be added, it showcases clean design, friendly visuals, and mobile-first accessibility.
-0bbe1dc7d306a5d528ac65c5690b6674473fbd1f
+🔗 LinkedIn: www.linkedin.com/in/mohammad-honarmande-62ab39343
