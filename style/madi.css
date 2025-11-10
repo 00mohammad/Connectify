@@ -1,23 +1,152 @@
 /* Small Mobile */
-@media (max-width: 320px) { }
+@media (max-width: 320px) {
+    .Btn_header {
+        margin-left: 9rem;
+    }
+
+    .header_img {
+        width: 5rem;
+        height: 100%;
+    }
+
+    .main_center {
+        max-width: 100%;
+    }
+
+    .main_span {
+        max-width: 100%;
+    }
+
+    .main-Btn {
+        width: 15rem;
+    }
+
+    .main_img_1 {
+        width: 15rem;
+    }
+
+    .main_text {
+        gap: 5rem;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+    }
+
+    /*.main_big_img{*/
+    /*}*/
+}
 
 /* Standard Mobile (design width) */
-@media (max-width: 375px) { }
+@media (max-width: 375px) {
+    .header_img {
+        width: 5rem;
+        height: 100%;
+    }
+
+
+    .main_center {
+        max-width: 100%;
+    }
+
+    .main_span {
+        max-width: 100%;
+    }
+
+    .main-Btn {
+        width: 15rem;
+    }
+
+    .main_img_1 {
+        width: 15rem;
+    }
+
+    .main_text {
+        gap: 5rem;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .Btn_header {
+        margin-left: 9rem;
+    }
+}
 
 /* Large Mobile */
-@media (max-width: 425px) { }
+@media (max-width: 425px) {
+    .Btn_header {
+        margin-left: 5rem;
+    }
+
+    .header_img {
+        width: 5rem;
+        height: 100%;
+    }
+
+    .main_center {
+        font-size: 1.4rem;
+    }
+
+    .main_span {
+        max-width: 90%;
+        font-size: 0.95rem;
+    }
+
+    .main-Btn {
+        width: 15rem;
+        height: 2.5rem;
+    }
+
+    .main_img {
+        max-width: 90%;
+    }
+
+    .main_text {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 2rem;
+    }
+}
 
 /* Small Tablet */
-@media (max-width: 768px) { }
+@media (max-width: 768px) {
+
+    .main_center {
+        max-width: 100%;
+    }
+
+    .main_span {
+        max-width: 80%;
+    }
+
+    .main_text {
+        flex-direction: column;
+        gap: 3rem;
+    }
+}
 
 /* Standard Tablet */
-@media (max-width: 1024px) { }
+@media (max-width: 1024px) {
+    .main_center {
+        max-width: 100%;
+    }
+}
 
 /* Small Laptop */
-@media (max-width: 1280px) { }
+@media (max-width: 1280px) {
+    .main_center {
+        max-width: 100%;
+    }
+}
 
 /* Desktop (design width) */
-@media (min-width: 1440px) { }
+@media (min-width: 1440px) {
 
-/* Large Desktop */
-@media (min-width: 1920px) { }
+
+}
