@@ -71,6 +71,23 @@
     margin-left: auto;
     margin-right: auto;
   }
+  .section {
+    display: flex;
+    text-align: left;
+    flex-direction: column-reverse;
+    align-items: flex-start;
+    justify-content: center;
+    flex-wrap: nowrap;
+  }
+  .section h1 {
+    width: 90%;
+    margin-left: auto;
+  }
+  .section p {
+    width: 90%;
+    margin-left: auto;
+    font-size: 12px;
+  }
 }
 
 /* Standard Mobile (375px) */
@@ -118,6 +135,14 @@
     display: block;
     margin-left: 0;
   }
+  .section {
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+    flex-direction: column-reverse;
+    margin-top: 10rem;
+    align-items: flex-start;
+  }
 }
 
 /* Large Mobile (425px) */
@@ -155,6 +180,15 @@
     align-items: center;
     justify-content: center;
     gap: 2rem;
+  }
+  .section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    margin-top: 4rem;
+    padding: 4rem;
+    flex-direction: column-reverse;
   }
 }
 
@@ -209,6 +243,16 @@
     display: block;
     width: 100%;
   }
+  .img_top_mobile {
+    display: block;
+    weight: auto;
+  }
+
+  .section_info {
+    max-width: 500px;
+    text-align: left;
+    margin-right: 6rem;
+  }
 }
 
 /* Small Laptop (1280px) */
@@ -218,7 +262,7 @@
   }
 
   .img_top_desktop {
-    display: block;
+    display: none;
     width: 100%;
   }
 }
@@ -227,6 +271,6 @@
 @media (min-width: 1440px) {
   .img_top_desktop {
     display: block;
-    width: 89rem;
+    width: 100%;
   }
 }
