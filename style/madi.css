@@ -128,6 +128,7 @@
 
   .img_bottom_desktop_mobil {
     height: auto;
+    background-color: white;
   }
 
   .main_grow_img {
@@ -229,7 +230,8 @@
   }
 
   .main_info p {
-    margin-right: 0;
+    text-align: center;
+    margin-right: 1rem;
   }
 }
 
