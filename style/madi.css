@@ -88,6 +88,9 @@
     margin-left: auto;
     font-size: 12px;
   }
+  .section_main {
+    text-align: center;
+  }
 }
 
 /* Standard Mobile (375px) */
@@ -128,7 +131,7 @@
 
   .img_bottom_desktop_mobil {
     height: auto;
-    background-color: white;
+    background-color: var(--color-background);
   }
 
   .main_grow_img {
@@ -144,6 +147,10 @@
     margin-top: 10rem;
     align-items: flex-start;
   }
+  .section_main {
+    text-align: center;
+  }
+
 }
 
 /* Large Mobile (425px) */
@@ -190,6 +197,9 @@
     margin-top: 4rem;
     padding: 4rem;
     flex-direction: column-reverse;
+  }
+  .section_main {
+    text-align: center;
   }
 }
 
