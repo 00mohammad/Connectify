@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Live Demo
-Experience it live: [Connectify Live Demo](https://your-demo-link.com)
+Experience it live: [Connectify Live Demo](https://classy-naiad-81ab10.netlify.app/)
 
 ---
 
