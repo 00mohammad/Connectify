@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Live Demo
-Experience it live: [Connectify Live Demo]()
+Experience it live: [Connectify Live Demo](https://00mohammad.github.io/Connectify/)
 
 ---
 
